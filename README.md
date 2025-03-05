@@ -1,2 +1,0 @@
-# Web-Store
-Web store
